@@ -1,4 +1,4 @@
-# -  Olá 👋, Sou Jeová , o dono desse perfil e atualmente Curso Ciência da Computação, na faculdade Unifor, em Fortaleza/ CE. 
+# -  Olá 👋, Sou Jeová , o dono desse perfil e atualmente Curso Análise e Desenvolvimento de Sistemas, na faculdade Unifor, em Fortaleza/ CE. 
 ### - 👀 Sou um admirador de TI e a cada dia me aprofundo no aprendizado para programação.  
 ### - 📚 Atualmente estou cursando o segundo semestre.
 ### - 💻 No momento, minhas linguagens mais ultilizadas são: JavaScript, React JS e HTML e CSS. Tenho Conhecimento também em: Java e Python.
