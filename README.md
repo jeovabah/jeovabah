@@ -1,6 +1,3 @@
-Here's a polished and engaging GitHub profile summary for you in English:
-
----
 
 # Hello 👋, I'm Jeová, the owner of this profile. I'm currently pursuing a degree in Systems Analysis and Development at Unifor University in Fortaleza, CE, Brazil.
 
@@ -23,7 +20,3 @@ I am passionate about creating seamless user experiences and writing clean, effi
 ### Looking Forward
 
 I am eager to collaborate on projects that make a difference, leverage cutting-edge technologies, and work alongside talented individuals who share my passion for innovation. Let's connect and explore how we can create something amazing together.
-
----
-
-Feel free to customize this summary further to match your personality and professional achievements!
