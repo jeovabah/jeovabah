@@ -1,5 +1,5 @@
 
-# Hello 👋, I'm Jeová, the owner of this profile. I'm currently pursuing a degree in Systems Analysis and Development at Unifor University in Fortaleza, CE, Brazil.
+# Hello 👋, I'm Jeová, the owner of this profile. I'm Living in Fortaleza, CE, Brazil.
 
 ### 👀 I'm a passionate admirer of Information Technology, and each day I delve deeper into learning programming. My curiosity and dedication drive me to explore new technologies and methodologies to enhance my skills.
 
