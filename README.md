@@ -5,7 +5,7 @@
 
 ### 💻 At present, my primary languages and technologies include React Native, React, PHP, and Laravel. These tools are my go-to for creating dynamic and responsive applications, both for web and mobile platforms.
 
-### 🧑‍💻 Professionally, I'm part of the team at 704apps, working with React Native and React Web, and implementing solutions using PHP and Laravel for backend development. This role has allowed me to sharpen my skills in both front-end and back-end, delivering comprehensive solutions in various projects.
+### 🧑‍💻 Professionally, I'm part of the team at ME2Softwares, working with React Native and React, Kotlin and implementing solutions using PHP and Laravel for backend development. This role has allowed me to sharpen my skills in both front-end and back-end, delivering comprehensive solutions in various projects.
 
 ### 😉 A few highlights about me: I possess proficient technical English skills, thrive in team environments, and always push myself to the limit in my learning journey. I believe in continuous growth and am always seeking opportunities to apply my knowledge practically.
 
