@@ -1,22 +1,63 @@
+<h1 align="center">Hey there! I'm Jeová 👋</h1>
+<h3 align="center">👨‍💻 Tech Leader | Full Stack Developer | ReactJS | React Native | Next.js | NestJS | PHP | Shopify</h3>
 
-# Hello 👋, I'm Jeová, the owner of this profile. I'm Living in Fortaleza, CE, Brazil.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=450&lines=Full+Stack+Developer+from+Brazil;React+%7C+Next+%7C+Laravel+%7C+Shopify;Tech+Leader+at+ME2+Softwares;Lifelong+Learner+%26+Builder" alt="Typing animation" />
+</p>
 
-### 👀 I'm a passionate admirer of Information Technology, and each day I delve deeper into learning programming. My curiosity and dedication drive me to explore new technologies and methodologies to enhance my skills.
-
-### 💻 At present, my primary languages and technologies include React Native, React, PHP, and Laravel. These tools are my go-to for creating dynamic and responsive applications, both for web and mobile platforms.
-
-### 🧑‍💻 Professionally, I'm part of the team at ME2Softwares, working with React Native and React, Kotlin and implementing solutions using PHP and Laravel for backend development. This role has allowed me to sharpen my skills in both front-end and back-end, delivering comprehensive solutions in various projects.
-
-### 😉 A few highlights about me: I possess proficient technical English skills, thrive in team environments, and always push myself to the limit in my learning journey. I believe in continuous growth and am always seeking opportunities to apply my knowledge practically.
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
 
 ---
 
-### Experience and Skills
+## 🧠 About Me
 
-With over three years of experience in front-end, back-end, and mobile development, I've had the opportunity to work with a wide array of technologies including React, React Native, Node.js, PHP, Laravel, and native Android development. This diverse experience has equipped me with the ability to tackle complex problems, develop scalable solutions, and adapt to the rapidly evolving tech landscape.
+I’m a **Full Stack Developer** and **Tech Leader** at **ME2 Softwares**, based in **Fortaleza - CE, Brazil**, currently studying **Information Systems at UNIFOR**. My passion for technology drives me to innovate, learn continuously, and strive for excellence in all my work.
 
-I am passionate about creating seamless user experiences and writing clean, efficient code. My journey in the tech industry has been marked by constant learning and improvement, and I am always on the lookout for new challenges that push the boundaries of what I can achieve.
+> “In the tech world, I aim to create, innovate, and contribute to a digitally advanced future.” 🚀
 
-### Looking Forward
+---
 
-I am eager to collaborate on projects that make a difference, leverage cutting-edge technologies, and work alongside talented individuals who share my passion for innovation. Let's connect and explore how we can create something amazing together.
+## 💼 Tech Stack
+
+- **Front-end:** ReactJS, Next.js, React Native, TypeScript, JavaScript  
+- **Back-end:** NestJS, Node.js, PHP, Laravel  
+- **Others:** Shopify, MySQL, PostgreSQL, REST, Git, Docker  
+- **Languages:** Portuguese 🇧🇷 | Technical English 📘
+
+---
+
+## 📍 Currently
+
+- 💼 Working as **Tech Leader at ME2 Softwares**
+- 📱 Developing mobile apps with **React Native** and web solutions with **React/Next.js**
+- 🔄 Building robust systems using **NestJS** and **Laravel**
+- 🧠 Always evolving and applying best practices in daily work
+
+---
+
+## 🧩 Soft Skills
+
+- Team collaboration in agile environments 🧑‍🤝‍🧑  
+- Clear and concise communication 📢  
+- Proactive and continuous learning 🔁  
+- Product-oriented and results-focused 📈  
+
+---
+
+---
+
+## 📫 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeovajunior/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jrjeova.emp@gmail.com)
+
+---
+
+## ✨ Fun fact
+
+> Once a dev, always a dev. But a dev with coffee and clean code is even better ☕💻
+
+---
+
