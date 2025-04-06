@@ -56,9 +56,3 @@ I’m a **Full Stack Developer** and **Tech Leader** at **ME2 Softwares**, based
 
 ---
 
-## ✨ Fun fact
-
-> Once a dev, always a dev. But a dev with coffee and clean code is even better ☕💻
-
----
-
