@@ -23,7 +23,8 @@ I’m a **Full Stack Developer** and **Tech Leader** at **ME2 Softwares**, based
 
 - **Front-end:** ReactJS, Next.js, React Native, TypeScript, JavaScript  
 - **Back-end:** NestJS, Node.js, PHP, Laravel  
-- **Others:** Shopify, MySQL, PostgreSQL, REST, Git, Docker  
+- **Others:** Shopify, Docker
+- **DevOps:** Aws S3, Google Cloud, DigitalOcean.
 - **Languages:** Portuguese 🇧🇷 | Technical English 📘
 
 ---
