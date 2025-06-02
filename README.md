@@ -13,7 +13,7 @@
 
 ## 🧠 About Me
 
-I’m a **Full Stack Developer** and **Tech Leader** at **ME2 Softwares**, based in **Fortaleza - CE, Brazil**, currently studying **Information Systems at UNIFOR**. My passion for technology drives me to innovate, learn continuously, and strive for excellence in all my work.
+I’m a **Full Stack Developer** and **Tech Leader** at **ME2 Softwares**, With over 5 years of experience building web and mobile solutions using Laravel, React, VueJs, React Native, and TypeScript
 
 > “In the tech world, I aim to create, innovate, and contribute to a digitally advanced future.” 🚀
 
